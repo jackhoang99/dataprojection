@@ -1,0 +1,29 @@
+/**body {
+ background-image: url("../dataproject.jpeg") ;
+ background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position:center center;
+opacity: 0.3;
+}
+**/
+.backGround {
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position:center center;
+opacity: 0.3;
+}
+html {
+  font-family: system-ui, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  margin: 0;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}

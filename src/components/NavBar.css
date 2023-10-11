@@ -1,0 +1,28 @@
+nav {
+  background-color: white;
+  padding: 10px 0; /* Adjust padding as needed */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow for depth (optional) */
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: right; /* Center align the links horizontally */
+}
+
+li {
+  margin: 0 10px; /* Adjust margin as needed */
+}
+
+/* Link styles */
+a {
+  text-decoration: none;
+  color: #333; /* Change link color as needed */
+  font-weight: bold;
+
+}
+
+a:hover {
+  color: #007bff; /* Change link color on hover (optional) */
+}
